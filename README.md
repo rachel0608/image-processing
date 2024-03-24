@@ -1,4 +1,4 @@
-# image-processing
+# Image Processing
 An image compression system that allows users to apply different convolution filters on given images
 
 How to run it: Use the command java Main with additional flags listed below
